@@ -14,3 +14,96 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- ✦ HEADER ✦ -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=200&section=header&text=Niyati&fontSize=65&fontColor=E6D7FF&animation=fadeIn&fontAlignY=38&desc=Dream%20%E2%80%A2%20Code%20%E2%80%A2%20Build%20%E2%80%A2%20Repeat&descSize=16&descAlignY=60&descColor=C9A7FF" width="100%" />
+</p>
+
+<!-- ✦ TYPING INTRO ✦ -->
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=C9A7FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Full-Stack+Developer;C%2B%2B+%26+DSA+Enthusiast;Exploring+AI%2FML+%26+New+Technologies" />
+</h3>
+
+<p align="center">
+  <i>Building, experimenting, learning and growing one commit at a time.</i>
+</p>
+
+---
+
+### ✦ About Me
+
+Hey! I'm **Niyati**, a Computer Science Engineering student passionate about technology, problem-solving and building meaningful things.
+
+- 💻 Working with C++, JavaScript and the MERN stack.
+- 🧩 Practicing Data Structures & Algorithms.
+- 🌱 Exploring AI/ML, backend engineering and system design.
+- 🚀 Interested in building practical, real-world applications.
+- 🎨 Outside coding: crafts, music and creativity.
+
+---
+
+### ✦ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,js,html,css,react,nodejs,express,mongodb,git,github,postman,vscode&theme=dark" />
+</p>
+
+---
+
+### ✦ Currently Exploring
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-302B63?style=flat-square&logo=leetcode&logoColor=C9A7FF" />
+  <img src="https://img.shields.io/badge/Full--Stack%20Development-302B63?style=flat-square&logo=react&logoColor=C9A7FF" />
+  <img src="https://img.shields.io/badge/AI%20%2F%20ML-302B63?style=flat-square&logo=python&logoColor=C9A7FF" />
+  <img src="https://img.shields.io/badge/System%20Design-302B63?style=flat-square&logo=diagramsdotnet&logoColor=C9A7FF" />
+</p>
+
+---
+
+### ✦ My Repositories
+
+<p align="center">
+  <a href="https://github.com/niyatikailkhura-lang?tab=repositories">
+    <img src="https://img.shields.io/badge/✦%20EXPLORE%20MY%20REPOSITORIES-302B63?style=for-the-badge&logo=github&logoColor=E6D7FF" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Experiments, projects, practice and everything I'm building along the way.</i>
+</p>
+
+---
+
+### ✦ GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=niyatikailkhura-lang&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C9A7FF&icon_color=B794F4&text_color=E6E6FA&ring_color=C9A7FF" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niyatikailkhura-lang&layout=compact&hide_border=true&bg_color=0D1117&title_color=C9A7FF&text_color=E6E6FA" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=niyatikailkhura-lang&theme=midnight-purple&hide_border=true&background=0D1117&ring=C9A7FF&fire=B794F4&currStreakLabel=C9A7FF" />
+</p>
+
+---
+
+### ✦ Let's Connect
+
+<p align="center">
+  <a href="https://github.com/niyatikailkhura-lang">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <i>“A little progress every day adds up to big results.”</i> ✨
+</p>
+
+<!-- ✦ FOOTER ✦ -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=100&section=footer" width="100%" />
+</p>
