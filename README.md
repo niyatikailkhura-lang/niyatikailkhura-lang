@@ -129,9 +129,8 @@ Hey! I'm **Niyati**, a Computer Science Engineering student passionate about tec
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=100&section=footer" width="100%" />
 </p>
 
-<p align="center">
-  <i>"Stay curious. Keep building. Never stop growing."</i> ✨
-</p>
+
+
 <p align="center">
   <i>"Stay curious. Keep building. Never stop growing."</i>
 </p>
