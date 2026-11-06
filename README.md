@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 <!-- ✦ HEADER ✦ -->
 
 <!-- HEADER -->
+<!-- HEADER -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=200&section=header&text=Niyati&fontSize=65&fontColor=E6D7FF&animation=fadeIn&fontAlignY=38&desc=Dream%20%E2%80%A2%20Code%20%E2%80%A2%20Build%20%E2%80%A2%20Repeat&descSize=16&descAlignY=60&descColor=C9A7FF" width="100%" />
@@ -65,13 +66,30 @@ Hey! I'm **Niyati**, a Computer Science Engineering student passionate about tec
 ### My Repositories
 
 <p align="center">
-  <a href="https://github.com/niyatikailkhura-lang?tab=repositories">
-    <img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-302B63?style=for-the-badge&logo=github&logoColor=E6D7FF" />
+  <a href="https://github.com/niyatikailkhura-lang/expense-tracker">
+    <img src="https://img.shields.io/badge/Expense%20Tracker-302B63?style=for-the-badge&logo=github&logoColor=C9A7FF" />
+  </a>
+  <a href="https://github.com/niyatikailkhura-lang/password-manager">
+    <img src="https://img.shields.io/badge/Password%20Manager-302B63?style=for-the-badge&logo=github&logoColor=C9A7FF" />
+  </a>
+  <a href="https://github.com/niyatikailkhura-lang/netflix-clone">
+    <img src="https://img.shields.io/badge/Netflix%20Clone-302B63?style=for-the-badge&logo=github&logoColor=C9A7FF" />
+  </a>
+  <a href="https://github.com/niyatikailkhura-lang/DSA">
+    <img src="https://img.shields.io/badge/DSA-302B63?style=for-the-badge&logo=github&logoColor=C9A7FF" />
+  </a>
+  <a href="https://github.com/niyatikailkhura-lang/tic-tac-toe">
+    <img src="https://img.shields.io/badge/Tic%20Tac%20Toe-302B63?style=for-the-badge&logo=github&logoColor=C9A7FF" />
+  </a>
+  <a href="https://github.com/niyatikailkhura-lang/Nyayasetu">
+    <img src="https://img.shields.io/badge/Nyayasetu-302B63?style=for-the-badge&logo=github&logoColor=C9A7FF" />
   </a>
 </p>
 
 <p align="center">
-  <i>Experiments, projects, practice and everything I'm building along the way.</i>
+  <a href="https://github.com/niyatikailkhura-lang?tab=repositories">
+    <img src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -92,4 +110,15 @@ Hey! I'm **Niyati**, a Computer Science Engineering student passionate about tec
 ### Let's Connect
 
 <p align="center">
-  <a
+  <a href="https://github.com/niyatikailkhura-lang">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=100&section=footer" width="100%" />
+</p>
+
+<p align="center">
+  <i>"Stay curious. Keep building. Never stop growing."</i>
+</p>
