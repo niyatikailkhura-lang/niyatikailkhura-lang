@@ -110,10 +110,18 @@ Hey! I'm **Niyati**, a Computer Science Engineering student passionate about tec
 ---
 
 ### Let's Connect
-
 <p align="center">
+  <a href="https://www.linkedin.com/in/niyati-453765369/">
+    <img src="https://img.shields.io/badge/LinkedIn-302B63?style=for-the-badge&logo=linkedin&logoColor=C9A7FF" />
+  </a>
+  <a href="https://leetcode.com/u/Niyati2007/">
+    <img src="https://img.shields.io/badge/LeetCode-302B63?style=for-the-badge&logo=leetcode&logoColor=C9A7FF" />
+  </a>
   <a href="https://github.com/niyatikailkhura-lang">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-302B63?style=for-the-badge&logo=github&logoColor=C9A7FF" />
+  </a>
+  <a href="mailto:niyatikailkhura@gmail.com">
+    <img src="https://img.shields.io/badge/Email-302B63?style=for-the-badge&logo=gmail&logoColor=C9A7FF" />
   </a>
 </p>
 
@@ -121,6 +129,9 @@ Hey! I'm **Niyati**, a Computer Science Engineering student passionate about tec
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=100&section=footer" width="100%" />
 </p>
 
+<p align="center">
+  <i>"Stay curious. Keep building. Never stop growing."</i> ✨
+</p>
 <p align="center">
   <i>"Stay curious. Keep building. Never stop growing."</i>
 </p>
