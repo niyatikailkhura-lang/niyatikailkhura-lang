@@ -94,11 +94,13 @@ Hey! I'm **Niyati**, a Computer Science Engineering student passionate about tec
 
 ---
 
+
+
 ### GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=niyatikailkhura-lang&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C9A7FF&icon_color=B794F4&text_color=E6E6FA" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niyatikailkhura-lang&layout=compact&hide_border=true&bg_color=0D1117&title_color=C9A7FF&text_color=E6E6FA" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=niyatikailkhura-lang&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C9A7FF&icon_color=B794F4&text_color=E6E6FA" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=niyatikailkhura-lang&layout=compact&hide_border=true&bg_color=0D1117&title_color=C9A7FF&text_color=E6E6FA" />
 </p>
 
 <p align="center">
