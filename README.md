@@ -8,7 +8,13 @@
     alt="Niyati Kailkhura - CURIOUS · CREATIVE · EVOLVING"
   />
 </p>
-
+<!-- PROFILE VISITOR COUNTER -->
+<p align="right">
+  <img
+    src="https://komarev.com/ghpvc/?username=niyatikailkhura-lang&label=PROFILE+VIEWS&color=743D4C&style=flat-square"
+    alt="Profile views"
+  />
+</p>
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=FF9D91&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Full-Stack+Developer;C%2B%2B+%26+DSA+Enthusiast;Always+Learning+Something+New" />
 </h3>
