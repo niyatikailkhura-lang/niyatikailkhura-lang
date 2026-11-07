@@ -110,6 +110,18 @@ Hey! I'm **Niyati**, a Computer Science Engineering student passionate about tec
   </a>
 </p>
 
+<!-- CONTRIBUTION SNAKE -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/niyatikailkhura-lang/niyatikailkhura-lang/output/github-snake-dark.svg">
+    <img
+      src="https://raw.githubusercontent.com/niyatikailkhura-lang/niyatikailkhura-lang/output/github-snake.svg"
+      alt="GitHub Contribution Snake"
+      width="100%">
+  </picture>
+</p>
+
 <!-- FOOTER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C27F7B,50:743D4C,100:171416&height=120&section=footer" width="100%" />
