@@ -128,5 +128,9 @@ Hey! I'm **Niyati**, a Computer Science Engineering student passionate about tec
 </p>
 
 <p align="center">
-  <i>Build, break, learn, repeat.</i>
+  <i>Build, break, learn, repeat.</i><br>
+ <i> Thanks for stopping by!
+"Still learning, still creating, and always chasing the next idea."
+— Niyati ♡
+ </i>
 </p>
