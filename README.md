@@ -67,9 +67,9 @@ Hey! I'm **Niyati**, a Computer Science Engineering student passionate about tec
   <a href="https://github.com/niyatikailkhura-lang/tic-tac-toe">
     <img src="https://img.shields.io/badge/Tic%20Tac%20Toe-34282A?style=for-the-badge&logo=github&logoColor=FF9D91" />
   </a>
-  <a href="https://github.com/niyatikailkhura-lang/Nyayasetu">
-    <img src="https://img.shields.io/badge/Nyayasetu-34282A?style=for-the-badge&logo=github&logoColor=FF9D91" />
-  </a>
+  <a href="https://github.com/niyatikailkhura-lang/Anveshak">
+  <img src="https://img.shields.io/badge/Anveshak-34282A?style=for-the-badge&logo=github&logoColor=FF9D91" />
+</a>
 </p>
 
 <p align="center">
