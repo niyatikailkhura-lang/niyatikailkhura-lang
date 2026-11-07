@@ -5,7 +5,7 @@
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:171416,35:3B202B,70:743D4C,100:C27F7B&height=230&section=header&text=Niyati%20Kailkhura&fontSize=55&fontColor=FFF4F0&animation=fadeIn&fontAlignY=38&desc=DEVELOPER%20%E2%80%A2%20PROBLEM%20SOLVER%20%E2%80%A2%20CREATOR&descSize=15&descAlignY=60&descColor=FFB6AD"
     width="100%"
-    alt="Niyati Kailkhura - Developer, Problem Solver, Creator"
+    alt="Niyati Kailkhura - CURIOUS · CREATIVE · EVOLVING"
   />
 </p>
 
