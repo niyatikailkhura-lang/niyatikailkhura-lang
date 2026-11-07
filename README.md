@@ -14,7 +14,7 @@
 </h3>
 
 <p align="center">
-  <i>Building meaningful things through code and creativity. &lt;/&gt;</i>
+  <i>Somewhere between imagination and implementation. &lt;/&gt;</i>
 </p>
 
 ---
@@ -128,5 +128,5 @@ Hey! I'm **Niyati**, a Computer Science Engineering student passionate about tec
 </p>
 
 <p align="center">
-  <i>Stay curious. Keep building. Never stop growing.</i>
+  <i>Build, break, learn, repeat.</i>
 </p>
